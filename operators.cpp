@@ -42,6 +42,16 @@ int main(){
         cout<<"VAlUE OF C IS"<<c4<<endl;
        
 
+       //logical operator
+       if(a>b && a<20){
+        cout<<"It works"<<endl;
+       }
+       else if (a>b || a<20){
+        cout<<"It doesnt works"<<endl;
+       }
+
+       else(cout<<"Its good");
+
       
 
 
