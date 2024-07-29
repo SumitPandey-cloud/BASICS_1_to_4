@@ -47,4 +47,4 @@ Data types can have modifiers, such as Short Long Signed Unsigned, which can mak
 #### wchar_t (2 or 4 bytes)	(1 to wide character)
 
 ### OUTPUT OF THE CODE
-![Output of the bitwise operator code] (https://github.com/SumitPandey-cloud/operators/blob/main/output-of-program.jpg)
+![Output of the bitwise operator code](https://github.com/SumitPandey-cloud/operators/blob/main/output-of-program.jpg)
