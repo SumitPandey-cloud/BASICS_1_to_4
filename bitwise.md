@@ -59,5 +59,8 @@ int main(){
 
 }
 
+# OUTPUT
+![Output of the bitwise operator code]()
+
 
 
