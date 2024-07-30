@@ -1,5 +1,5 @@
 # BASICS
-##EXPERIMENT 2
+## EXPERIMENT 1
 ## AIM: -
 To learn the basic fundatamentals of C++ for example the varibales and their sizes, the different type of storage classes, the different types of operators like arithmeatic, logical, comparsion and bitwise
 
