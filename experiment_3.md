@@ -15,7 +15,7 @@ It works with variables, types, and expressions. The size can vary across platfo
 # CODE
 ```
 //sumit pandey 23070123133 
-//experiment 2
+//experiment 3
 #include <iostream>
 using namespace std;
 int main() {
