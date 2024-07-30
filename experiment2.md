@@ -35,4 +35,8 @@ int main() {
 }
 
 # OUTPUT 
-![Output of the bitwise operator code]()
+![Output of the bitwise operator code](https://github.com/SumitPandey-cloud/operators/blob/main/SIZEOF%20OUTPUT.jpg)
+
+# CONCLUSION
+
+LEARNT HOW TO CHECK THE SIZE OF ANY OPERATOR IN C++.
