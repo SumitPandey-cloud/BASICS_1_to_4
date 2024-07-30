@@ -1,5 +1,5 @@
 ## SIZE COMPARISON
-# EXPERIMENT 2
+# EXPERIMENT 3
 # AIM
 To study and implement C++ Program Structure 
 
@@ -13,6 +13,7 @@ Array size calculations.
 It works with variables, types, and expressions. The size can vary across platforms. It's particularly useful for low-level memory management and ensuring code portability.
 
 # CODE
+```
 //sumit pandey 23070123133 
 //experiment 2
 #include <iostream>
@@ -42,6 +43,7 @@ Size of a3: 1byte
 Size of a4: 2byte
 Size of a5: 4byte
 Size of a6: 8byte*/
+```
 
 # OUTPUT 
 ![Output of the bitwise operator code](https://github.com/SumitPandey-cloud/operators/blob/main/SIZEOF%20OUTPUT.jpg)
