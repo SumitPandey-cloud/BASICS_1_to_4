@@ -1,5 +1,5 @@
 # BASICS
-## EXPERIMENT 1
+## EXPERIMENT 2
 ## AIM: -
 To study and implement C++ Program Structure (Data Types)
 
