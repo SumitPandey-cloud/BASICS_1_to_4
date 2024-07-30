@@ -100,3 +100,7 @@ int main(){
 
 ### OUTPUT OF THE CODE
 ![Output of the bitwise operator code](https://github.com/SumitPandey-cloud/operators/blob/main/output-of-program.jpg)
+
+## CONCLUSION
+Learnt different types of data type and how to use them in c++.
+
