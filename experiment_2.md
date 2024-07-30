@@ -19,32 +19,32 @@ Data types can have modifiers, such as Short Long Signed Unsigned, which can mak
 ### DATA TYPES: - THEIR SIZES AND RANGE 
 ### Data Type	Size (in bytes)	Range
 #### short int
-(2 bytes )	(-32,768 to 32,767)
+(2 bytes )
 #### unsigned short int 
-(2 bytes) 	(0 to 65,535)
+(2 bytes) 	
 #### unsigned int
-(4 bytes) 	(0 to 4,294,967,295)
+(4 bytes)
 #### int
-(4 bytes)	(-2,147,483,648 to 2,147,483,647)
-#### long int (4 bytes)
-(-2,147,483,648 to 2,147,483,647)
+(4 bytes)	
+#### long int 
+(4 bytes)
 #### unsigned long int
-(4 bytes)  (0 to 4,294,967,295)
+(4 bytes)  
 #### long long int
-(8 bytes) {-(2^63) to (2^63)-1}
+(8 bytes) 
 #### unsigned long long int
-(8 bytes)	(0 to 18,446,744,073,709,551,615)
+(8 bytes)	
 #### signed char
-(1 byte)	(-128 to 127)
+(1 byte)	
 #### unsigned char
-(1 byte) 	(0 to 255)
+(1 byte) 	
 #### float
-(4 bytes)	(-3.4×10^38 to 3.4×10^38)
+(4 bytes)	
 #### double
-(8 bytes) (-1.7×10^308 to1.7×10^308)
+(8 bytes) 
 #### long double
-(12 bytes)	(-1.1×10^4932 to1.1×10^4932)
-#### wchar_t (2 or 4 bytes)	(1 to wide character)
+(12 bytes)	
+
 
 ## CODE 
 ```
