@@ -1,6 +1,6 @@
 # BITWISE
 ## AIM
-To use Bitwise operators in c++ 
+To study and implement C++ Bitwise Operators
 
 ## THEORY
 Bitwise operators are fundamental tools in computer programming that allow manipulation of individual bits within binary representations of data. Here's a brief overview of the key concepts:
