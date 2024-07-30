@@ -27,6 +27,7 @@ Bitwise operators are fundamental tools in computer programming that allow manip
 5. They can be used to perform various tasks like setting/clearing specific bits, checking if a number is odd/even, or multiplying/dividing by powers of 2.
 
 ## CODE
+```
 
 #include<iostream>
 using namespace std;
@@ -58,6 +59,7 @@ int main(){
 
 
 }
+```
 
 # OUTPUT
 ![Output of the bitwise operator code](https://github.com/SumitPandey-cloud/operators/blob/main/bitwise%20operator%20output.jpg)
