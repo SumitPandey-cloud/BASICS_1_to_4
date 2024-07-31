@@ -62,7 +62,8 @@ int main(){
 ```
 
 # OUTPUT
-![Output of the bitwise operator code](https://github.com/SumitPandey-cloud/operators/blob/main/bitwise%20operator%20output.jpg)
+![experiment_4_output](https://github.com/user-attachments/assets/a963b34e-13fe-4dd8-ba28-1fd59b7fb8ec)
+
 
 # CONCLUSION
 
