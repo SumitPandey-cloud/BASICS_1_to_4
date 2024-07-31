@@ -46,7 +46,8 @@ Size of a6: 8byte*/
 ```
 
 # OUTPUT 
-![Output of the bitwise operator code](https://github.com/SumitPandey-cloud/operators/blob/main/SIZEOF%20OUTPUT.jpg)
+![image](https://github.com/user-attachments/assets/74c8d744-f2d4-4a91-88d7-ab09b43d418d)
+
 
 # CONCLUSION
 
