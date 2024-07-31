@@ -99,7 +99,8 @@ int main(){
 ```
 
 ### OUTPUT OF THE CODE
-![Output of the bitwise operator code](https://github.com/SumitPandey-cloud/operators/blob/main/output-of-program.jpg)
+![image](https://github.com/user-attachments/assets/b6bd1590-4921-4a7a-8a34-43308ac1e002)
+
 
 ## CONCLUSION
 Learnt different types of data type and how to use them in c++.
