@@ -48,7 +48,7 @@ Data types can have modifiers, such as Short Long Signed Unsigned, which can mak
 
 ## CODE 
 ```
-//sumit pandey 23070123133 
+
 //experiment 2
 #include<iostream>
 using namespace std;
