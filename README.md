@@ -13,7 +13,7 @@ Once the download is complete, open the downloaded file (VSCodeSetup-x.y.z.exe w
 Accept the License Agreement:
 Read through the license agreement. Check the box that says "I accept the agreement" and click "Next".
 
-### Step 4: -
+### Step 4: - 
 Choose Installation Location:
 Choose the destination folder where you want to install VS Code. The default location is usually fine. Click "Next".
 
